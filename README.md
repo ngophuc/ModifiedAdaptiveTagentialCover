@@ -27,7 +27,7 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/PAMATC_IPOLDemo/
 		</td>
 		<td align="center" valign="center">
 			<a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/Depth_P1_G3_ATC.pdf">
-				<img width="150" src="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Results/Depth_P1_G3_ATC.png" alt="ATC result" />
+				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/Depth_P1_G3_ATC.png" alt="ATC result" />
 			</a>
 		<br />
 		Adaptive Tagential Cover result
