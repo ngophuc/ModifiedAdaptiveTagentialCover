@@ -26,8 +26,8 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/PAMATC_IPOLDemo/
 		Input image
 		</td>		
 		<td align="center" valign="center">
-			<a href="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Results/pentagonNoise4.pdf">
-				<img width="150" src="https://github.com/ngophuc/AdaptativeTangentCover/blob/master/Results/pentagonNoise4.png" alt="Input curve" />
+			<a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/pentagonNoise4.pdf">
+				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/pentagonNoise4.png" alt="Input curve" />
 			</a>	
 		<br />
 		Input curve
