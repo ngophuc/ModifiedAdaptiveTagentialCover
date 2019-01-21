@@ -27,31 +27,31 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/PAMATC_IPOLDemo/
 		</td>
 		<td align="center" valign="center">
 			<a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/Depth_P1_G3_ATC.pdf">
-				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/Depth_P1_G3_ATC.png" alt="ATC result" />
+				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/Depth_P1_G3_ATC.png" alt="Adaptive Tagential Cover result" />
 			</a>
 		<br />
-		Adaptive Tagential Cover result
+		ATC result
 		</td>	
 		<td align="center" valign="center">
 			<a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/Depth_P1_G3_DPnew_ATC.pdf">
-				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/Depth_P1_G3_DPnew_ATC.png" alt="ATC result" />
+				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/Depth_P1_G3_DPnew_ATC.png" alt="Polygonal approximation with ATC" />
 			</a>
 		<br />
-		Polygonal approximation with ATC
+		Polygonalization with ATC
 		</td>		
 		<td align="center" valign="center">
 			<a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/Depth_P1_G3_MATC.pdf">
-				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/Depth_P1_G3_MATC.png" alt="MATC result" />
+				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/Depth_P1_G3_MATC.png" alt="Modified Adaptive Tagential Cover result" />
 			</a>
 		<br />
-		Modified Adaptive Tagential Cover result
+		MATC result
 		</td>
 		<td align="center" valign="center">
 			<a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/Depth_P1_G3_DPnew_MATC.pdf">
-				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/Depth_P1_G3_DPnew_MATC.png" alt="MATC result" />
+				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/Depth_P1_G3_DPnew_MATC.png" alt="Polygonal approximation with MATC" />
 			</a>
 		<br />
-		Polygonal approximation with MATC
+		Polygonalization with MATC
 		</td>		
 		</tr>
 	</table>
