@@ -14,8 +14,7 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/PAMATC_IPOLDemo/
 <p>File <a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Samples/Depth_P1_G3.sdp">Depth_P1_G3.sdp</a>: </p>&#x000A;&#x000A;
 <pre class="code highlight js-syntax-highlight plaintext">
 <code>./ATCSimplifiedDominantPoint -i ../Samples/Depth_P1_G3.sdp -o ../Results/Depth_P1_G3 -d ../ImaGene-forIPOL &#x000A;
-./MATCSimplifiedDominantPoint -i ../Samples/Depth_P1_G3.sdp -o ../Results/Depth_P1_G3 -d ../ImaGene-forIPOL &#x000A;
-</code>
+./MATCSimplifiedDominantPoint -i ../Samples/Depth_P1_G3.sdp -o ../Results/Depth_P1_G3 -d ../ImaGene-forIPOL &#x000A</code>
 </pre>&#x000A;&#x000A;
 <p>
 	<table cellpadding="5">
