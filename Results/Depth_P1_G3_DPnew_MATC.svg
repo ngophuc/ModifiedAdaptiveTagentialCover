@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="700mm" height="800mm" 
+     viewBox="0 0 1984.25 2267.72" 
+     xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<desc>output.svg, created with the Board library (Copyleft) 2007 Sebastien Fourey</desc>
+<rect x="28.35" y="737.01" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="42.52" cy="751.18" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="28.35" y="765.35" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="42.52" cy="779.53" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="56.69" y="765.35" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="70.87" cy="779.53" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="56.69" y="793.7" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="70.87" cy="807.87" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="85.04" y="793.7" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="99.21" cy="807.87" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="85.04" y="822.05" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="99.21" cy="836.22" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="113.39" y="822.05" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="127.56" cy="836.22" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="113.39" y="850.39" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="127.56" cy="864.57" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="141.73" y="850.39" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="155.91" cy="864.57" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="141.73" y="878.74" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="155.91" cy="892.91" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="170.08" y="878.74" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="184.25" cy="892.91" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="198.43" y="878.74" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="212.6" cy="892.91" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="198.43" y="907.09" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="212.6" cy="921.26" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="198.43" y="935.43" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="212.6" cy="949.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="226.77" y="935.43" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="240.94" cy="949.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="226.77" y="963.78" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="240.94" cy="977.95" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="255.12" y="963.78" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="269.29" cy="977.95" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="255.12" y="992.13" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="269.29" cy="1006.3" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="283.46" y="992.13" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="297.64" cy="1006.3" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="283.46" y="1020.47" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="297.64" cy="1034.65" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="311.81" y="1020.47" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="325.98" cy="1034.65" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="311.81" y="1048.82" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="325.98" cy="1062.99" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="340.16" y="1048.82" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="354.33" cy="1062.99" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="368.5" y="1048.82" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="382.68" cy="1062.99" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="368.5" y="1077.17" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="382.68" cy="1091.34" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="396.85" y="1077.17" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="411.02" cy="1091.34" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="396.85" y="1105.51" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="411.02" cy="1119.69" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="425.2" y="1105.51" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="439.37" cy="1119.69" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="425.2" y="1133.86" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="439.37" cy="1148.03" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="453.54" y="1133.86" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="467.72" cy="1148.03" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="453.54" y="1162.2" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="467.72" cy="1176.38" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="481.89" y="1162.2" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="496.06" cy="1176.38" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="481.89" y="1190.55" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="496.06" cy="1204.72" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="510.24" y="1190.55" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="524.41" cy="1204.72" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="510.24" y="1218.9" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="524.41" cy="1233.07" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="538.58" y="1218.9" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="552.76" cy="1233.07" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="566.93" y="1218.9" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="581.1" cy="1233.07" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="566.93" y="1247.24" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="581.1" cy="1261.42" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="595.28" y="1247.24" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="609.45" cy="1261.42" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="595.28" y="1275.59" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="609.45" cy="1289.76" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="623.62" y="1275.59" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="637.8" cy="1289.76" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="651.97" y="1275.59" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="666.14" cy="1289.76" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="651.97" y="1303.94" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="666.14" cy="1318.11" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="680.32" y="1303.94" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="694.49" cy="1318.11" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="680.32" y="1332.28" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="694.49" cy="1346.46" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="708.66" y="1332.28" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="722.83" cy="1346.46" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="708.66" y="1360.63" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="722.83" cy="1374.8" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="737.01" y="1360.63" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="751.18" cy="1374.8" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="737.01" y="1388.98" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="751.18" cy="1403.15" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="765.35" y="1388.98" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="779.53" cy="1403.15" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="765.35" y="1417.32" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="779.53" cy="1431.5" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="793.7" y="1417.32" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="807.87" cy="1431.5" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="793.7" y="1445.67" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="807.87" cy="1459.84" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="822.05" y="1445.67" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="836.22" cy="1459.84" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="822.05" y="1474.02" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="836.22" cy="1488.19" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="822.05" y="1502.36" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="836.22" cy="1516.54" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="850.39" y="1502.36" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="864.57" cy="1516.54" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="850.39" y="1530.71" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="864.57" cy="1544.88" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="850.39" y="1559.06" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="864.57" cy="1573.23" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="878.74" y="1559.06" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="892.91" cy="1573.23" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="878.74" y="1587.4" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="892.91" cy="1601.57" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="878.74" y="1615.75" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="892.91" cy="1629.92" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="878.74" y="1644.09" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="892.91" cy="1658.27" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="878.74" y="1672.44" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="892.91" cy="1686.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="878.74" y="1700.79" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="892.91" cy="1714.96" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="878.74" y="1729.13" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="892.91" cy="1743.31" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="850.39" y="1729.13" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="864.57" cy="1743.31" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="850.39" y="1757.48" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="864.57" cy="1771.65" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="850.39" y="1785.83" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="864.57" cy="1800" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="822.05" y="1785.83" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="836.22" cy="1800" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="822.05" y="1814.17" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="836.22" cy="1828.35" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="793.7" y="1814.17" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="807.87" cy="1828.35" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="793.7" y="1842.52" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="807.87" cy="1856.69" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="765.35" y="1842.52" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="779.53" cy="1856.69" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="737.01" y="1842.52" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="751.18" cy="1856.69" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="708.66" y="1842.52" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="722.83" cy="1856.69" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="708.66" y="1870.87" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="722.83" cy="1885.04" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="680.32" y="1870.87" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="694.49" cy="1885.04" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="651.97" y="1870.87" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="666.14" cy="1885.04" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="651.97" y="1899.21" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="666.14" cy="1913.39" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="623.62" y="1899.21" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="637.8" cy="1913.39" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="595.28" y="1899.21" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="609.45" cy="1913.39" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="566.93" y="1899.21" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="581.1" cy="1913.39" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="538.58" y="1899.21" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="552.76" cy="1913.39" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="538.58" y="1927.56" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="552.76" cy="1941.73" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="510.24" y="1927.56" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="524.41" cy="1941.73" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="481.89" y="1927.56" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="496.06" cy="1941.73" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="453.54" y="1927.56" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="467.72" cy="1941.73" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="425.2" y="1927.56" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="439.37" cy="1941.73" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="425.2" y="1955.91" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="439.37" cy="1970.08" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="396.85" y="1955.91" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="411.02" cy="1970.08" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="368.5" y="1955.91" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="382.68" cy="1970.08" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="368.5" y="1984.25" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="382.68" cy="1998.43" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="340.16" y="1984.25" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="354.33" cy="1998.43" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="340.16" y="2012.6" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="354.33" cy="2026.77" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="311.81" y="2012.6" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="325.98" cy="2026.77" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="283.46" y="2012.6" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="297.64" cy="2026.77" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="283.46" y="2040.95" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="297.64" cy="2055.12" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="255.12" y="2040.95" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="269.29" cy="2055.12" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="255.12" y="2069.29" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="269.29" cy="2083.46" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="226.77" y="2069.29" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="240.94" cy="2083.46" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="226.77" y="2097.64" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="240.94" cy="2111.81" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="198.43" y="2097.64" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="212.6" cy="2111.81" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="198.43" y="2125.98" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="212.6" cy="2140.16" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="198.43" y="2154.33" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="212.6" cy="2168.5" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="198.43" y="2182.68" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="212.6" cy="2196.85" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="226.77" y="2182.68" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="240.94" cy="2196.85" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="226.77" y="2211.02" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="240.94" cy="2225.2" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="255.12" y="2211.02" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="269.29" cy="2225.2" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="283.46" y="2211.02" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="297.64" cy="2225.2" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="283.46" y="2239.37" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="297.64" cy="2253.54" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="311.81" y="2239.37" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="325.98" cy="2253.54" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="311.81" y="2211.02" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="325.98" cy="2225.2" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="340.16" y="2211.02" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="354.33" cy="2225.2" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="368.5" y="2211.02" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="382.68" cy="2225.2" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="396.85" y="2211.02" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="411.02" cy="2225.2" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="425.2" y="2211.02" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="439.37" cy="2225.2" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="425.2" y="2182.68" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="439.37" cy="2196.85" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="453.54" y="2182.68" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="467.72" cy="2196.85" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="481.89" y="2182.68" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="496.06" cy="2196.85" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="510.24" y="2182.68" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="524.41" cy="2196.85" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="510.24" y="2154.33" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="524.41" cy="2168.5" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="538.58" y="2154.33" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="552.76" cy="2168.5" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="566.93" y="2154.33" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="581.1" cy="2168.5" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="566.93" y="2125.98" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="581.1" cy="2140.16" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="595.28" y="2125.98" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="609.45" cy="2140.16" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="623.62" y="2125.98" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="637.8" cy="2140.16" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="651.97" y="2125.98" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="666.14" cy="2140.16" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="651.97" y="2097.64" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="666.14" cy="2111.81" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="680.32" y="2097.64" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="694.49" cy="2111.81" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="708.66" y="2097.64" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="722.83" cy="2111.81" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="737.01" y="2097.64" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="751.18" cy="2111.81" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="737.01" y="2069.29" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="751.18" cy="2083.46" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="765.35" y="2069.29" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="779.53" cy="2083.46" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="765.35" y="2040.95" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="779.53" cy="2055.12" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="793.7" y="2040.95" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="807.87" cy="2055.12" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="822.05" y="2040.95" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="836.22" cy="2055.12" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="850.39" y="2040.95" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="864.57" cy="2055.12" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="878.74" y="2040.95" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="892.91" cy="2055.12" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="878.74" y="2012.6" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="892.91" cy="2026.77" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="907.09" y="2012.6" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="921.26" cy="2026.77" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="907.09" y="1984.25" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="921.26" cy="1998.43" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="935.43" y="1984.25" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="949.61" cy="1998.43" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="935.43" y="1955.91" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="949.61" cy="1970.08" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="935.43" y="1927.56" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="949.61" cy="1941.73" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="963.78" y="1927.56" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="977.95" cy="1941.73" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="963.78" y="1899.21" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="977.95" cy="1913.39" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="992.13" y="1899.21" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1006.3" cy="1913.39" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="992.13" y="1927.56" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1006.3" cy="1941.73" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1020.47" y="1927.56" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1034.65" cy="1941.73" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1048.82" y="1927.56" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1062.99" cy="1941.73" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1077.17" y="1927.56" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1091.34" cy="1941.73" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1105.51" y="1927.56" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1119.69" cy="1941.73" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1133.86" y="1927.56" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1148.03" cy="1941.73" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1133.86" y="1899.21" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1148.03" cy="1913.39" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1162.2" y="1899.21" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1176.38" cy="1913.39" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1190.55" y="1899.21" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1204.72" cy="1913.39" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1190.55" y="1870.87" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1204.72" cy="1885.04" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1218.9" y="1870.87" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1233.07" cy="1885.04" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1218.9" y="1842.52" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1233.07" cy="1856.69" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1218.9" y="1814.17" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1233.07" cy="1828.35" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1218.9" y="1785.83" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1233.07" cy="1800" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1247.24" y="1785.83" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1261.42" cy="1800" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1247.24" y="1757.48" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1261.42" cy="1771.65" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1247.24" y="1729.13" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1261.42" cy="1743.31" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1275.59" y="1729.13" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1289.76" cy="1743.31" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1275.59" y="1700.79" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1289.76" cy="1714.96" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1247.24" y="1700.79" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1261.42" cy="1714.96" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1218.9" y="1700.79" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1233.07" cy="1714.96" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1218.9" y="1672.44" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1233.07" cy="1686.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1247.24" y="1672.44" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1261.42" cy="1686.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1275.59" y="1672.44" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1289.76" cy="1686.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1303.94" y="1672.44" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1318.11" cy="1686.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1303.94" y="1644.09" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1318.11" cy="1658.27" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1303.94" y="1615.75" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1318.11" cy="1629.92" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1332.28" y="1615.75" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1346.46" cy="1629.92" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1332.28" y="1587.4" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1346.46" cy="1601.57" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1303.94" y="1587.4" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1318.11" cy="1601.57" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1303.94" y="1559.06" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1318.11" cy="1573.23" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1303.94" y="1530.71" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1318.11" cy="1544.88" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1332.28" y="1530.71" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1346.46" cy="1544.88" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1332.28" y="1502.36" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1346.46" cy="1516.54" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1360.63" y="1502.36" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1374.8" cy="1516.54" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1360.63" y="1474.02" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1374.8" cy="1488.19" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1388.98" y="1474.02" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1403.15" cy="1488.19" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1417.32" y="1474.02" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1431.5" cy="1488.19" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1445.67" y="1474.02" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1459.84" cy="1488.19" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1445.67" y="1502.36" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1459.84" cy="1516.54" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1474.02" y="1502.36" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1488.19" cy="1516.54" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1502.36" y="1502.36" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1516.54" cy="1516.54" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1530.71" y="1502.36" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1544.88" cy="1516.54" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1559.06" y="1502.36" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1573.23" cy="1516.54" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1559.06" y="1474.02" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1573.23" cy="1488.19" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1587.4" y="1474.02" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1601.57" cy="1488.19" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1615.75" y="1474.02" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1629.92" cy="1488.19" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1644.09" y="1474.02" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1658.27" cy="1488.19" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1644.09" y="1502.36" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1658.27" cy="1516.54" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1672.44" y="1502.36" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1686.61" cy="1516.54" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1672.44" y="1530.71" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1686.61" cy="1544.88" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1700.79" y="1530.71" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1714.96" cy="1544.88" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1700.79" y="1559.06" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1714.96" cy="1573.23" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1729.13" y="1559.06" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1743.31" cy="1573.23" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1757.48" y="1559.06" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1771.65" cy="1573.23" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1785.83" y="1559.06" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1800" cy="1573.23" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1785.83" y="1530.71" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1800" cy="1544.88" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1814.17" y="1530.71" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1828.35" cy="1544.88" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1814.17" y="1502.36" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1828.35" cy="1516.54" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1842.52" y="1502.36" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1856.69" cy="1516.54" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1842.52" y="1474.02" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1856.69" cy="1488.19" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1870.87" y="1474.02" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1885.04" cy="1488.19" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1870.87" y="1445.67" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1885.04" cy="1459.84" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1870.87" y="1417.32" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1885.04" cy="1431.5" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1870.87" y="1388.98" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1885.04" cy="1403.15" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1899.21" y="1388.98" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1913.39" cy="1403.15" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1899.21" y="1360.63" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1913.39" cy="1374.8" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1927.56" y="1360.63" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1941.73" cy="1374.8" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1927.56" y="1332.28" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1941.73" cy="1346.46" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1955.91" y="1332.28" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1970.08" cy="1346.46" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1955.91" y="1303.94" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1970.08" cy="1318.11" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1955.91" y="1275.59" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1970.08" cy="1289.76" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1955.91" y="1247.24" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1970.08" cy="1261.42" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1955.91" y="1218.9" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1970.08" cy="1233.07" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1927.56" y="1218.9" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1941.73" cy="1233.07" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1927.56" y="1190.55" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1941.73" cy="1204.72" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1927.56" y="1162.2" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1941.73" cy="1176.38" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1927.56" y="1133.86" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1941.73" cy="1148.03" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1927.56" y="1105.51" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1941.73" cy="1119.69" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1927.56" y="1077.17" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1941.73" cy="1091.34" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1927.56" y="1048.82" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1941.73" cy="1062.99" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1927.56" y="1020.47" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1941.73" cy="1034.65" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1927.56" y="992.13" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1941.73" cy="1006.3" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1899.21" y="992.13" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1913.39" cy="1006.3" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1899.21" y="963.78" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1913.39" cy="977.95" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1870.87" y="963.78" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1885.04" cy="977.95" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1870.87" y="935.43" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1885.04" cy="949.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1842.52" y="935.43" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1856.69" cy="949.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1814.17" y="935.43" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1828.35" cy="949.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1814.17" y="907.09" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1828.35" cy="921.26" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1785.83" y="907.09" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1800" cy="921.26" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1757.48" y="907.09" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1771.65" cy="921.26" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1757.48" y="935.43" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1771.65" cy="949.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1729.13" y="935.43" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1743.31" cy="949.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1700.79" y="935.43" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1714.96" cy="949.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1672.44" y="935.43" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1686.61" cy="949.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1672.44" y="963.78" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1686.61" cy="977.95" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1644.09" y="963.78" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1658.27" cy="977.95" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1615.75" y="963.78" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1629.92" cy="977.95" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1615.75" y="935.43" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1629.92" cy="949.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1587.4" y="935.43" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1601.57" cy="949.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1587.4" y="907.09" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1601.57" cy="921.26" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1587.4" y="878.74" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1601.57" cy="892.91" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1559.06" y="878.74" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1573.23" cy="892.91" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1559.06" y="850.39" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1573.23" cy="864.57" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1559.06" y="822.05" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1573.23" cy="836.22" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1559.06" y="793.7" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1573.23" cy="807.87" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1530.71" y="793.7" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1544.88" cy="807.87" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1530.71" y="765.35" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1544.88" cy="779.53" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1530.71" y="737.01" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1544.88" cy="751.18" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1502.36" y="737.01" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1516.54" cy="751.18" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1502.36" y="708.66" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1516.54" cy="722.83" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1474.02" y="708.66" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1488.19" cy="722.83" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1474.02" y="680.32" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1488.19" cy="694.49" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1445.67" y="680.32" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1459.84" cy="694.49" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1417.32" y="680.32" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1431.5" cy="694.49" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1388.98" y="680.32" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1403.15" cy="694.49" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1388.98" y="651.97" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1403.15" cy="666.14" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1360.63" y="651.97" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1374.8" cy="666.14" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1332.28" y="651.97" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1346.46" cy="666.14" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1332.28" y="680.32" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1346.46" cy="694.49" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1303.94" y="680.32" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1318.11" cy="694.49" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1303.94" y="708.66" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1318.11" cy="722.83" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1275.59" y="708.66" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1289.76" cy="722.83" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1275.59" y="737.01" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1289.76" cy="751.18" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1247.24" y="737.01" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1261.42" cy="751.18" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1247.24" y="765.35" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1261.42" cy="779.53" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1218.9" y="765.35" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1233.07" cy="779.53" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1218.9" y="793.7" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1233.07" cy="807.87" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1190.55" y="793.7" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1204.72" cy="807.87" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1162.2" y="793.7" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1176.38" cy="807.87" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1162.2" y="765.35" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1176.38" cy="779.53" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1133.86" y="765.35" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1148.03" cy="779.53" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1133.86" y="737.01" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1148.03" cy="751.18" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1133.86" y="708.66" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1148.03" cy="722.83" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1105.51" y="708.66" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1119.69" cy="722.83" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1077.17" y="708.66" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1091.34" cy="722.83" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1077.17" y="680.32" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1091.34" cy="694.49" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1048.82" y="680.32" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1062.99" cy="694.49" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1048.82" y="651.97" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1062.99" cy="666.14" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1048.82" y="623.62" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1062.99" cy="637.8" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1020.47" y="623.62" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1034.65" cy="637.8" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1020.47" y="595.28" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1034.65" cy="609.45" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="992.13" y="595.28" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1006.3" cy="609.45" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="992.13" y="566.93" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1006.3" cy="581.1" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="992.13" y="538.58" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1006.3" cy="552.76" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="963.78" y="538.58" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="977.95" cy="552.76" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="963.78" y="510.24" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="977.95" cy="524.41" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="935.43" y="510.24" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="949.61" cy="524.41" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="935.43" y="481.89" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="949.61" cy="496.06" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="935.43" y="453.54" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="949.61" cy="467.72" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="907.09" y="453.54" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="921.26" cy="467.72" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="907.09" y="425.2" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="921.26" cy="439.37" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="878.74" y="425.2" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="892.91" cy="439.37" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="878.74" y="396.85" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="892.91" cy="411.02" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="878.74" y="368.5" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="892.91" cy="382.68" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="850.39" y="368.5" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="864.57" cy="382.68" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="850.39" y="340.16" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="864.57" cy="354.33" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="822.05" y="340.16" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="836.22" cy="354.33" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="822.05" y="311.81" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="836.22" cy="325.98" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="793.7" y="311.81" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="807.87" cy="325.98" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="793.7" y="283.46" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="807.87" cy="297.64" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="765.35" y="283.46" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="779.53" cy="297.64" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="765.35" y="255.12" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="779.53" cy="269.29" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="765.35" y="226.77" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="779.53" cy="240.94" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="737.01" y="226.77" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="751.18" cy="240.94" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="737.01" y="198.43" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="751.18" cy="212.6" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="737.01" y="170.08" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="751.18" cy="184.25" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="708.66" y="170.08" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="722.83" cy="184.25" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="708.66" y="141.73" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="722.83" cy="155.91" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="708.66" y="113.39" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="722.83" cy="127.56" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="680.32" y="113.39" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="694.49" cy="127.56" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="680.32" y="85.04" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="694.49" cy="99.21" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="680.32" y="56.69" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="694.49" cy="70.87" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="651.97" y="56.69" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="666.14" cy="70.87" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="651.97" y="28.35" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="666.14" cy="42.52" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="623.62" y="28.35" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="637.8" cy="42.52" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="623.62" y="0" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="637.8" cy="14.17" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="595.28" y="0" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="609.45" cy="14.17" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="566.93" y="0" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="581.1" cy="14.17" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="538.58" y="0" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="552.76" cy="14.17" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="510.24" y="0" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="524.41" cy="14.17" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="510.24" y="28.35" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="524.41" cy="42.52" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="481.89" y="28.35" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="496.06" cy="42.52" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="481.89" y="56.69" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="496.06" cy="70.87" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="481.89" y="85.04" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="496.06" cy="99.21" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="481.89" y="113.39" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="496.06" cy="127.56" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="481.89" y="141.73" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="496.06" cy="155.91" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="481.89" y="170.08" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="496.06" cy="184.25" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="481.89" y="198.43" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="496.06" cy="212.6" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="481.89" y="226.77" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="496.06" cy="240.94" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="481.89" y="255.12" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="496.06" cy="269.29" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="481.89" y="283.46" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="496.06" cy="297.64" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="481.89" y="311.81" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="496.06" cy="325.98" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="481.89" y="340.16" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="496.06" cy="354.33" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="510.24" y="340.16" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="524.41" cy="354.33" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="510.24" y="368.5" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="524.41" cy="382.68" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="510.24" y="396.85" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="524.41" cy="411.02" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="538.58" y="396.85" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="552.76" cy="411.02" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="538.58" y="425.2" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="552.76" cy="439.37" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="538.58" y="453.54" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="552.76" cy="467.72" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="566.93" y="453.54" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="581.1" cy="467.72" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="566.93" y="481.89" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="581.1" cy="496.06" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="566.93" y="510.24" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="581.1" cy="524.41" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="595.28" y="510.24" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="609.45" cy="524.41" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="595.28" y="538.58" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="609.45" cy="552.76" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="595.28" y="566.93" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="609.45" cy="581.1" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="623.62" y="566.93" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="637.8" cy="581.1" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="623.62" y="595.28" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="637.8" cy="609.45" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="651.97" y="595.28" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="666.14" cy="609.45" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="651.97" y="623.62" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="666.14" cy="637.8" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="651.97" y="651.97" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="666.14" cy="666.14" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="680.32" y="651.97" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="694.49" cy="666.14" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="680.32" y="680.32" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="694.49" cy="694.49" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="708.66" y="680.32" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="722.83" cy="694.49" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="708.66" y="708.66" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="722.83" cy="722.83" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="737.01" y="708.66" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="751.18" cy="722.83" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="737.01" y="737.01" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="751.18" cy="751.18" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="737.01" y="765.35" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="751.18" cy="779.53" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="765.35" y="765.35" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="779.53" cy="779.53" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="765.35" y="793.7" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="779.53" cy="807.87" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="765.35" y="822.05" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="779.53" cy="836.22" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="793.7" y="822.05" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="807.87" cy="836.22" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="793.7" y="850.39" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="807.87" cy="864.57" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="822.05" y="850.39" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="836.22" cy="864.57" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="822.05" y="878.74" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="836.22" cy="892.91" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="850.39" y="878.74" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="864.57" cy="892.91" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="850.39" y="907.09" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="864.57" cy="921.26" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="850.39" y="935.43" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="864.57" cy="949.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="878.74" y="935.43" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="892.91" cy="949.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="878.74" y="963.78" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="892.91" cy="977.95" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="907.09" y="963.78" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="921.26" cy="977.95" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="907.09" y="992.13" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="921.26" cy="1006.3" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="907.09" y="1020.47" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="921.26" cy="1034.65" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="935.43" y="1020.47" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="949.61" cy="1034.65" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="935.43" y="1048.82" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="949.61" cy="1062.99" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="907.09" y="1048.82" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="921.26" cy="1062.99" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="878.74" y="1048.82" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="892.91" cy="1062.99" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="878.74" y="1020.47" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="892.91" cy="1034.65" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="850.39" y="1020.47" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="864.57" cy="1034.65" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="822.05" y="1020.47" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="836.22" cy="1034.65" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="822.05" y="992.13" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="836.22" cy="1006.3" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="793.7" y="992.13" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="807.87" cy="1006.3" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="793.7" y="963.78" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="807.87" cy="977.95" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="765.35" y="963.78" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="779.53" cy="977.95" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="737.01" y="963.78" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="751.18" cy="977.95" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="737.01" y="935.43" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="751.18" cy="949.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="708.66" y="935.43" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="722.83" cy="949.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="680.32" y="935.43" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="694.49" cy="949.61" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="680.32" y="907.09" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="694.49" cy="921.26" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="651.97" y="907.09" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="666.14" cy="921.26" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="623.62" y="907.09" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="637.8" cy="921.26" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="623.62" y="878.74" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="637.8" cy="892.91" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="595.28" y="878.74" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="609.45" cy="892.91" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="566.93" y="878.74" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="581.1" cy="892.91" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="566.93" y="850.39" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="581.1" cy="864.57" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="538.58" y="850.39" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="552.76" cy="864.57" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="538.58" y="822.05" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="552.76" cy="836.22" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="510.24" y="822.05" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="524.41" cy="836.22" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="510.24" y="793.7" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="524.41" cy="807.87" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="481.89" y="793.7" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="496.06" cy="807.87" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="453.54" y="793.7" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="467.72" cy="807.87" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="453.54" y="765.35" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="467.72" cy="779.53" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="425.2" y="765.35" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="439.37" cy="779.53" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="425.2" y="737.01" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="439.37" cy="751.18" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="396.85" y="737.01" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="411.02" cy="751.18" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="396.85" y="708.66" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="411.02" cy="722.83" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="368.5" y="708.66" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="382.68" cy="722.83" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="340.16" y="708.66" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="354.33" cy="722.83" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="340.16" y="680.32" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="354.33" cy="694.49" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="311.81" y="680.32" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="325.98" cy="694.49" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="311.81" y="651.97" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="325.98" cy="666.14" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="311.81" y="623.62" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="325.98" cy="637.8" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="283.46" y="623.62" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="297.64" cy="637.8" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="283.46" y="595.28" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="297.64" cy="609.45" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="283.46" y="566.93" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="297.64" cy="581.1" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="255.12" y="566.93" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="269.29" cy="581.1" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="255.12" y="538.58" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="269.29" cy="552.76" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="226.77" y="538.58" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="240.94" cy="552.76" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="226.77" y="510.24" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="240.94" cy="524.41" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="198.43" y="510.24" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="212.6" cy="524.41" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="198.43" y="481.89" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="212.6" cy="496.06" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="170.08" y="481.89" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="184.25" cy="496.06" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="170.08" y="453.54" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="184.25" cy="467.72" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="141.73" y="453.54" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="155.91" cy="467.72" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="141.73" y="425.2" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="155.91" cy="439.37" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="141.73" y="396.85" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="155.91" cy="411.02" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="113.39" y="396.85" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="127.56" cy="411.02" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="85.04" y="396.85" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="99.21" cy="411.02" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="85.04" y="425.2" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="99.21" cy="439.37" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="85.04" y="453.54" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="99.21" cy="467.72" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="56.69" y="453.54" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="70.87" cy="467.72" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="28.35" y="453.54" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="42.52" cy="467.72" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="28.35" y="481.89" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="42.52" cy="496.06" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="0" y="481.89" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="14.17" cy="496.06" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="0" y="510.24" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="14.17" cy="524.41" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="0" y="538.58" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="14.17" cy="552.76" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="0" y="566.93" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="14.17" cy="581.1" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="0" y="595.28" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="14.17" cy="609.45" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="0" y="623.62" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="14.17" cy="637.8" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="0" y="651.97" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="14.17" cy="666.14" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="0" y="680.32" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="14.17" cy="694.49" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="28.35" y="680.32" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="42.52" cy="694.49" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="28.35" y="708.66" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="42.52" cy="722.83" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="0" y="708.66" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="14.17" cy="722.83" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="0" y="737.01" width="28.35" height="28.35" fill="rgb(204,204,204)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="14.17" cy="751.18" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="28.35" y="737.01" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="42.52" cy="751.18" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="822.05" y="1445.67" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="836.22" cy="1459.84" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="878.74" y="1644.09" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="892.91" cy="1658.27" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="793.7" y="1842.52" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="807.87" cy="1856.69" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="368.5" y="1955.91" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="382.68" cy="1970.08" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="198.43" y="2125.98" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="212.6" cy="2140.16" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="226.77" y="2211.02" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="240.94" cy="2225.2" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1218.9" y="1870.87" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1233.07" cy="1885.04" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1360.63" y="1474.02" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1374.8" cy="1488.19" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1814.17" y="1530.71" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1828.35" cy="1544.88" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1927.56" y="1360.63" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1941.73" cy="1374.8" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1927.56" y="992.13" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1941.73" cy="1006.3" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1814.17" y="907.09" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1828.35" cy="921.26" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1615.75" y="963.78" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1629.92" cy="977.95" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1530.71" y="737.01" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1544.88" cy="751.18" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1332.28" y="651.97" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1346.46" cy="666.14" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1218.9" y="793.7" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1233.07" cy="807.87" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="1077.17" y="708.66" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="1091.34" cy="722.83" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="651.97" y="28.35" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="666.14" cy="42.52" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="510.24" y="0" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="524.41" cy="14.17" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="481.89" y="340.16" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="496.06" cy="354.33" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="935.43" y="1048.82" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="949.61" cy="1062.99" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="340.16" y="708.66" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="354.33" cy="722.83" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="141.73" y="396.85" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="155.91" cy="411.02" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<rect x="28.35" y="453.54" width="28.35" height="28.35" fill="rgb(192,0,0)" stroke="rgb(0,0,0)" stroke-width="0.353mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<circle cx="42.52" cy="467.72" r="2.83" fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<line x1="42.52" y1="751.18" x2="836.22" y2="1459.84" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="836.22" y1="1459.84" x2="892.91" y2="1658.27" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="892.91" y1="1658.27" x2="807.87" y2="1856.69" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="807.87" y1="1856.69" x2="382.68" y2="1970.08" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="382.68" y1="1970.08" x2="212.6" y2="2140.16" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="212.6" y1="2140.16" x2="240.94" y2="2225.2" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="240.94" y1="2225.2" x2="1233.07" y2="1885.04" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="1233.07" y1="1885.04" x2="1374.8" y2="1488.19" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="1374.8" y1="1488.19" x2="1828.35" y2="1544.88" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="1828.35" y1="1544.88" x2="1941.73" y2="1374.8" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="1941.73" y1="1374.8" x2="1941.73" y2="1006.3" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="1941.73" y1="1006.3" x2="1828.35" y2="921.26" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="1828.35" y1="921.26" x2="1629.92" y2="977.95" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="1629.92" y1="977.95" x2="1544.88" y2="751.18" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="1544.88" y1="751.18" x2="1346.46" y2="666.14" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="1346.46" y1="666.14" x2="1233.07" y2="807.87" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="1233.07" y1="807.87" x2="1091.34" y2="722.83" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="1091.34" y1="722.83" x2="666.14" y2="42.52" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="666.14" y1="42.52" x2="524.41" y2="14.17" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="524.41" y1="14.17" x2="496.06" y2="354.33" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="496.06" y1="354.33" x2="949.61" y2="1062.99" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="949.61" y1="1062.99" x2="354.33" y2="722.83" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="354.33" y1="722.83" x2="155.91" y2="411.02" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="155.91" y1="411.02" x2="42.52" y2="467.72" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="42.52" y1="751.18" x2="42.52" y2="467.72" fill="none" stroke="rgb(192,0,0)" stroke-width="3.528mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+</svg>
