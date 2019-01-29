@@ -59,8 +59,8 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/PAMATC_IPOLDemo/
 
 <p>File <a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Samples/leaf.sdp">leaf.sdp</a>: </p>&#x000A;&#x000A;
 <pre class="code highlight js-syntax-highlight plaintext">
-<code>./ATCSimplifiedDominantPoint -i ../Samples/leaf.sdp -o ../Results/leaf -d ../ImaGene-forIPOL &#x000A;
-./MATCSimplifiedDominantPoint -i ../Samples/leaf.sdp -o ../Results/leaf -d ../ImaGene-forIPOL</code>
+<code>./ATCSimplifiedDominantPoint -i ../Samples/leaf.sdp -o ../Results/leaf -m 10 -s0.5 -d ../ImaGene-forIPOL &#x000A;
+./MATCSimplifiedDominantPoint -i ../Samples/leaf.sdp -o ../Results/leaf -d -m 10 -s0.5 ../ImaGene-forIPOL</code>
 </pre>&#x000A;&#x000A;
 <p>
 	<table cellpadding="5">
