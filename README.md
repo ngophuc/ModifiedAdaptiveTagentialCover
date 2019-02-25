@@ -59,8 +59,8 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/PAMATC_IPOLDemo/
 
 <p>File <a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Samples/leaf.sdp">leaf.sdp</a>: </p>&#x000A;&#x000A;
 <pre class="code highlight js-syntax-highlight plaintext">
-<code>./ATCSimplifiedDominantPoint -i ../Samples/leaf.sdp -o ../Results/leaf -m 10 -s0.5 -d ../ImaGene-forIPOL &#x000A;
-./MATCSimplifiedDominantPoint -i ../Samples/leaf.sdp -o ../Results/leaf -d -m 10 -s0.5 ../ImaGene-forIPOL</code>
+<code>./ATCSimplifiedDominantPoint -i ../Samples/leaf.sdp -o ../Results/leaf -m 5 -s 0.5 -d ../ImaGene-forIPOL &#x000A;
+./MATCSimplifiedDominantPoint -i ../Samples/leaf.sdp -o ../Results/leaf -d -m 5 -s 0.5 ../ImaGene-forIPOL</code>
 </pre>&#x000A;&#x000A;
 <p>
 	<table cellpadding="5">
@@ -153,8 +153,8 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/PAMATC_IPOLDemo/
 
 <p>File <a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Samples/fly.sdp">fly.sdp</a>: </p>&#x000A;&#x000A;
 <pre class="code highlight js-syntax-highlight plaintext">
-<code>./ATCSimplifiedDominantPoint -i ../Samples/fly.sdp -o ../Results/fly -m 10 -s 0.5 -d ../ImaGene-forIPOL &#x000A;
-./MATCSimplifiedDominantPoint -i ../Samples/fly.sdp -o ../Results/fly -m 10 -s 0.5 -d ../ImaGene-forIPOL</code>
+<code>./ATCSimplifiedDominantPoint -i ../Samples/fly.sdp -o ../Results/fly -m 5 -s 0.5 -d ../ImaGene-forIPOL &#x000A;
+./MATCSimplifiedDominantPoint -i ../Samples/fly.sdp -o ../Results/fly -m 5 -s 0.5 -d ../ImaGene-forIPOL</code>
 </pre>&#x000A;&#x000A;
 <p>
 	<table cellpadding="5">
