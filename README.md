@@ -57,53 +57,6 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/PAMATC_IPOLDemo/
 	</table>
 </p>
 
-<p>File <a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Samples/leaf.sdp">leaf.sdp</a>: </p>&#x000A;&#x000A;
-<pre class="code highlight js-syntax-highlight plaintext">
-<code>./ATCSimplifiedDominantPoint -i ../Samples/leaf.sdp -o ../Results/leaf -m 10 -s0.5 -d ../ImaGene-forIPOL &#x000A;
-./MATCSimplifiedDominantPoint -i ../Samples/leaf.sdp -o ../Results/leaf -d -m 10 -s0.5 ../ImaGene-forIPOL</code>
-</pre>&#x000A;&#x000A;
-<p>
-	<table cellpadding="5">
-		<tr>
-		<td align="center" valign="center">
-			<a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Samples/leaf.png">
-				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Samples/leaf.png" alt="Input image" />
-			</a>	
-		<br />
-		Input image
-		</td>
-		<td align="center" valign="center">
-			<a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/leaf_ATC.pdf">
-				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/leaf_ATC.png" alt="Adaptive Tagential Cover result" />
-			</a>
-		<br />
-		ATC result
-		</td>	
-		<td align="center" valign="center">
-			<a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/leaf_DPnew_ATC.pdf">
-				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/leaf_DPnew_ATC.png" alt="Polygonal approximation with ATC" />
-			</a>
-		<br />
-		Polygonalization with ATC
-		</td>		
-		<td align="center" valign="center">
-			<a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/leaf_MATC.pdf">
-				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/leaf_MATC.png" alt="Modified Adaptive Tagential Cover result" />
-			</a>
-		<br />
-		MATC result
-		</td>
-		<td align="center" valign="center">
-			<a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/leaf_DPnew_MATC.pdf">
-				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/leaf_DPnew_MATC.png" alt="Polygonal approximation with MATC" />
-			</a>
-		<br />
-		Polygonalization with MATC
-		</td>		
-		</tr>
-	</table>
-</p>
-
 <p>File <a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Samples/bee.sdp">bee.sdp</a>: </p>&#x000A;&#x000A;
 <pre class="code highlight js-syntax-highlight plaintext">
 <code>./ATCSimplifiedDominantPoint -i ../Samples/bee.sdp -o ../Results/bee -d ../ImaGene-forIPOL &#x000A;
@@ -190,6 +143,53 @@ http://ipol-geometry.loria.fr/~phuc/ipol_demo/PAMATC_IPOLDemo/
 		<td align="center" valign="center">
 			<a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/fly_DPnew_MATC.pdf">
 				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/fly_DPnew_MATC.png" alt="Polygonal approximation with MATC" />
+			</a>
+		<br />
+		Polygonalization with MATC
+		</td>		
+		</tr>
+	</table>
+</p>
+
+<p>File <a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Samples/leaf.sdp">leaf.sdp</a>: </p>&#x000A;&#x000A;
+<pre class="code highlight js-syntax-highlight plaintext">
+<code>./ATCSimplifiedDominantPoint -i ../Samples/leaf.sdp -o ../Results/leaf -m 10 -s0.5 -d ../ImaGene-forIPOL &#x000A;
+./MATCSimplifiedDominantPoint -i ../Samples/leaf.sdp -o ../Results/leaf -d -m 10 -s0.5 ../ImaGene-forIPOL</code>
+</pre>&#x000A;&#x000A;
+<p>
+	<table cellpadding="5">
+		<tr>
+		<td align="center" valign="center">
+			<a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Samples/leaf.png">
+				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Samples/leaf.png" alt="Input image" />
+			</a>	
+		<br />
+		Input image
+		</td>
+		<td align="center" valign="center">
+			<a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/leaf_ATC.pdf">
+				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/leaf_ATC.png" alt="Adaptive Tagential Cover result" />
+			</a>
+		<br />
+		ATC result
+		</td>	
+		<td align="center" valign="center">
+			<a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/leaf_DPnew_ATC.pdf">
+				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/leaf_DPnew_ATC.png" alt="Polygonal approximation with ATC" />
+			</a>
+		<br />
+		Polygonalization with ATC
+		</td>		
+		<td align="center" valign="center">
+			<a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/leaf_MATC.pdf">
+				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/leaf_MATC.png" alt="Modified Adaptive Tagential Cover result" />
+			</a>
+		<br />
+		MATC result
+		</td>
+		<td align="center" valign="center">
+			<a href="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/leaf_DPnew_MATC.pdf">
+				<img width="150" src="https://github.com/ngophuc/ModifiedAdaptiveTagentialCover/blob/master/Results/leaf_DPnew_MATC.png" alt="Polygonal approximation with MATC" />
 			</a>
 		<br />
 		Polygonalization with MATC
