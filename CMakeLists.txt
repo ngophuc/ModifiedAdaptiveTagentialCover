@@ -1,5 +1,6 @@
 project(testATCConstruction)
 cmake_minimum_required(VERSION 2.8)
+cmake_policy(SET CMP0057 NEW)
 
 #Required in DGtal
 FIND_PACKAGE(DGtal REQUIRED)

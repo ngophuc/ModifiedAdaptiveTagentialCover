@@ -97,37 +97,37 @@ int main(int argc, char *argv[])
     size_t it_contour=0;
     //for(size_t it_contour=0;it_contour != aContour.size();it_contour++)
     {
-        cout<<"Contour "<<it_contour<<"..............................."<<endl;
-        // save each part of the contour
-        std::stringstream oneContour;
-        oneContour << outDir << "/" << singleName << "_" << it_contour << ".sdp";
-        if (!ifstream(oneContour.str()))
-            writeFile(aContour.at(it_contour),oneContour.str().c_str(),false);
-        
-        std::stringstream noiseLevelMTFile;
-        noiseLevelMTFile << outDir << "/" << singleName << "MeanThickness_" << it_contour << ".txt";
-        instruction << ImaGeneDIR << "/build/tests/TestCompNoiseDetect/displayNoiseBS -srcPolygon " << oneContour.str() 
-            << " 0 1 CLOSED -exportNoiseLevel "<< noiseLevelMTFile.str()
-            << " -setSampling "<<maxMT<<" "<<stepMT;
-        std::system(instruction.str().c_str());
-        
-        vector<double> oneVecMT=readMeanindfulThicknessFile(noiseLevelMTFile.str().c_str());//*sqrt(2)
-        if(!isClosed)
-            oneVecMT.push_back(oneVecMT.back());
-        cout<<"oneVecMT size="<<oneVecMT.size()<<endl;
-        
-        vecMT.push_back(oneVecMT);
+      cout<<"Contour "<<it_contour<<"..............................."<<endl;
+      // save each part of the contour
+      std::stringstream oneContour;
+      oneContour << outDir << "_" << it_contour << ".sdp";
+      if (!ifstream(oneContour.str()))
+          writeFile(aContour.at(it_contour),oneContour.str().c_str(),false);
+
+      std::stringstream noiseLevelMTFile;
+      noiseLevelMTFile << outDir << "MeanThickness_" << it_contour << ".txt";
+      instruction << ImaGeneDIR << "/build/tests/TestCompNoiseDetect/displayNoiseBS -srcPolygon " << oneContour.str()
+          << " 0 1 CLOSED -exportNoiseLevel "<< noiseLevelMTFile.str()
+          << " -setSampling "<<maxMT<<" "<<stepMT;
+      std::system(instruction.str().c_str());
+      
+      vector<double> oneVecMT=readMeanindfulThicknessFile(noiseLevelMTFile.str().c_str());//*sqrt(2)
+      if(!isClosed)
+          oneVecMT.push_back(oneVecMT.back());
+      cout<<"oneVecMT size="<<oneVecMT.size()<<endl;
+      
+      vecMT.push_back(oneVecMT);
     }
     /********** call meaningful thickness prog ***************/
     
     /********** calculate the modified adaptive tangent cover ***************/
     std::stringstream coutFile;
-    coutFile << outDir << "/" << singleName << "_Log.txt";
+    coutFile << outDir << "_Log.txt";
     if(verbose)
         freopen(coutFile.str().c_str(),"w",stdout);
     
     std::stringstream filenameBS;
-    filenameBS << outDir << "/" << singleName; //MATC=Modified Adaptative Tangent Cover
+    filenameBS << outDir ; //MATC=Modified Adaptative Tangent Cover
     vector<vector<MaximalBlurredSegment> > tangentCorverSet;
     tangentCorverSet.push_back(vector<MaximalBlurredSegment>());
     tangentCorverSet=modifiedTangentCoverCurveDecomposition(aContour,vecMT,isClosed,filenameBS.str().c_str(),eps);
@@ -151,7 +151,7 @@ int main(int argc, char *argv[])
     cout<<"MATC DP detection"<<endl;
     vector<vector<Point> > DP;
     std::stringstream filenameDP;
-    filenameDP << outDir << "/" << singleName << (eps ? "_DP_MATC.eps" :"_DP_MATC.svg");
+    filenameDP << outDir << (eps ? "_DP_MATC.eps" :"_DP_MATC.svg");
     // Version without seq of ANGLE ordering of burred segments
     DP=testDominantPointOnShape(tangentCorverSet,aContour,false,isClosed,filenameDP.str().c_str(),verbose,eps);
     
@@ -183,7 +183,7 @@ int main(int argc, char *argv[])
     
     /********** selection of dominant points ***************/
     std::stringstream filenameDPnew;
-    filenameDPnew << outDir << "/" << singleName << (eps ? "_DPnew_MATC.eps" :"_DPnew_MATC.svg");
+    filenameDPnew << outDir << (eps ? "_DPnew_MATC.eps" :"_DPnew_MATC.svg");
     isClosed=true;
     vector<vector<Point> > newDP=testDominantPointSelection(DP,indexDP,aContour,10.0*M_PI/180.0,isClosed,filenameDPnew.str().c_str(),verbose,eps); // ISE * ANGLE
     

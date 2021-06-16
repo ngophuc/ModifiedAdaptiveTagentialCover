@@ -102,12 +102,12 @@ int main(int argc, char *argv[])
         cout<<"Contour "<<it_contour<<"..............................."<<endl;
         // save each part of the contour
         std::stringstream oneContour;
-        oneContour << outDir << "/" << singleName << "_" << it_contour << ".sdp";
+        oneContour << outDir << "_" << it_contour << ".sdp";
         if (!ifstream(oneContour.str()))
             writeFile(aContour.at(it_contour),oneContour.str().c_str(),false);
 
         std::stringstream noiseLevelMTFile;
-        noiseLevelMTFile << outDir << "/" << singleName << "MeanThickness_" << it_contour << ".txt";
+        noiseLevelMTFile << outDir << "MeanThickness_" << it_contour << ".txt";
         instruction << ImaGeneDIR << "/build/tests/TestCompNoiseDetect/displayNoiseBS -srcPolygon " << oneContour.str() 
             << " 0 1 CLOSED -exportNoiseLevel "<< noiseLevelMTFile.str()
             << " -setSampling "<<maxMT<<" "<<stepMT;
@@ -124,12 +124,12 @@ int main(int argc, char *argv[])
     
     /********** calculate the adaptive tagnential cover ***************/
     std::stringstream coutFile;
-    coutFile << outDir << "/" << singleName << "_Log.txt";
+    coutFile << outDir << "_Log.txt";
     if(verbose)
         freopen(coutFile.str().c_str(),"w",stdout);
     
     std::stringstream filenameBS;
-    filenameBS << outDir << "/" << singleName; //ATC=Adaptative Tangent Cover
+    filenameBS << outDir; //ATC=Adaptative Tangent Cover
     vector<vector<MaximalBlurredSegment> > tangentCorverSet;
     tangentCorverSet.push_back(vector<MaximalBlurredSegment>());
     tangentCorverSet=adaptiveTangentCoverCurveDecomposition(aContour,vecMT,isClosed,filenameBS.str().c_str(),eps);
@@ -153,7 +153,7 @@ int main(int argc, char *argv[])
     cout<<"ATC DP detection"<<endl;
     vector<vector<Point> > DP;
     std::stringstream filenameDP;
-    filenameDP << outDir << "/" << singleName << (eps ? "_DP_ATC.eps" :"_DP_ATC.svg");
+    filenameDP << outDir << (eps ? "_DP_ATC.eps" :"_DP_ATC.svg");
     // Version without seq of ANGLE ordering of burred segments
     DP=testDominantPointOnShape(tangentCorverSet,aContour,false,isClosed,filenameDP.str().c_str(),verbose,eps);
     
@@ -185,7 +185,7 @@ int main(int argc, char *argv[])
 
     /********** selection of dominant points ***************/
     std::stringstream filenameDPnew;
-    filenameDPnew << outDir << "/" << singleName << (eps ? "_DPnew_ATC.eps" :"_DPnew_ATC.svg");
+    filenameDPnew << outDir << (eps ? "_DPnew_ATC.eps" :"_DPnew_ATC.svg");
     isClosed=true;
     vector<vector<Point> > newDP=testDominantPointSelection(DP,indexDP,aContour,10.0*M_PI/180.0,isClosed,filenameDPnew.str().c_str(),verbose,eps); // ISE * ANGLE
     
